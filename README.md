@@ -24,4 +24,3 @@ Website Tin Tức
 10.	Bảo mật: Đảm bảo tính bảo mật của dự án bằng cách xác thực người dùng, bảo vệ dữ liệu và xử lý quyền truy cập.
 11.	Kiểm thử và debug: Tiến hành kiểm thử toàn diện trên các tính năng và giao diện để đảm bảo hoạt động một cách chính xác và ổn định. Xử lý bất kỳ lỗi hoặc vấn đề nào xuất hiện trong quá trình này.
 12.	Triển khai và triển khai thực tế: Chuẩn bị môi trường triển khai, như máy chủ web và cơ sở dữ liệu, và triển khai ứng dụng của người dùng trên môi trường này. Kiểm tra lại mọi tính năng để đảm bảo dự án hoạt động một cách đáng tin cậy.
-
